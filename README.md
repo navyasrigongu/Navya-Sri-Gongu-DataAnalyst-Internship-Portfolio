@@ -19,3 +19,8 @@ github repository:
 https://github.com/navyasrigongu/Data-Stroytelling-and-Statistical-Validation
 
 Skills Learned: Python,Pandas,Power BI,Statistics,Data Visualization,Data StoryTelling,Github
+
+
+VIDEO LINK:
+
+https://drive.google.com/file/d/19NwDAolAOqdtaQAvARauBP_bYj2jjCHF/view?usp=drive_link
